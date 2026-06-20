@@ -4,14 +4,14 @@ _Zastrzeżenie: projekt tworzony w celach edukacyjnych, służący wykorzystaniu
 
 <br>
 <p align="center">
-  <img src="..\docs\cafes_locations.png" width="700"><br>
+  <img src="docs\cafes_locations.png" width="700"><br>
   <em>Rysunek 1. Rozmieszczenie przestrzenne kawiarni w Kopenhadze</em>
 </p>
 <br>
 
 <br>
 <p align="center">
-  <img src="..\docs\walkable_paths.png" width="700"><br>
+  <img src="docs\walkable_paths.png" width="700"><br>
   <em>Rysunek 2. Sieć infrastruktury pieszej w Kopenhadze</em>
 </p>
 <br>
@@ -95,7 +95,7 @@ _Zastrzeżenie: projekt tworzony w celach edukacyjnych, służący wykorzystaniu
 
 <br>
 <p align="center">
-  <img src="..\docs\number_cafes.png" width="700"><br>
+  <img src="docs\number_cafes.png" width="700"><br>
   <em>Rysunek 3. Gęstość kawiarni w dzielnicach Kopenhagi (kawiarnie/km²)</em>
 </p>
 <br>
